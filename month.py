@@ -4,7 +4,7 @@
 # this program asks the user for the month as a number between 1 to 12.
 
 
-# this function will return the month in the string format.
+# the terminal will return the month in the string format.
 def find_month(month):
     months = {
         1: "{} represents january.".format(month),
